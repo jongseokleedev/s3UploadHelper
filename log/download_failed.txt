@@ -1,0 +1,232 @@
+_id: 63f330e387980732804893c6, name: 북성스포츠센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 63f330e387980732804893fc, name: 중랑구민체육센터, error: Failed to download image from https://www.jungnang.go.kr/portal/images/contents/05cul/e04041_img1.jpg with status code 400
+_id: 643eae5e077163fc3655ce2d, name: 구리시청소년수련관, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 63f330e3879807328048941d, name: 종로문화체육센터, error: Error downloading image from  : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce44, name: 중원청소년수련관 수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce4b, name: 장안구민회관, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce51, name: 정왕평생학습관 수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce4c, name: 광교체육센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce6e, name: 발렌스 스포츠센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce75, name: 이천스포츠센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce78, name: 의정부시청소년수련관, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce81, name: 하남국민체육센터 수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce82, name: 마홀수영장, error: Failed to download image from http://ggpyeonghwa.newsa.kr/imgdata/ggpyeonghwa_com/202106/94659_93614_1822.jpg with status code 403
+_id: 643eae5e077163fc3655ce84, name: 화성국민체육센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce91, name: 인천시청소년수련관, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce95, name: 미추홀구 국민체육센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ceba, name: 대전 체육재활원, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cec3, name: 대전월드컵스포츠센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cedc, name: 서산국민체육센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cee3, name: 한들문화센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cee4, name: 천안SMC수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ceea, name: 음성스포츠문화회관, error: Failed to download image from https://www.eumseong.go.kr/site/www/images/contents/cnt407_img01_220406.jpg with status code 404
+_id: 643eae5e077163fc3655cf21, name: 사천 실내수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf28, name: 진주실내수영장, error: Error downloading image from https://www.jinjusports.or.kr:54772/img/sub/fac05_01.jpg: HTTPSConnectionPool(host='www.jinjusports.or.kr', port=54772): Max retries exceeded with url: /img/sub/fac05_01.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))
+_id: 643eae5e077163fc3655cf2d, name: 창원 올림픽기념국민생활관, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf3f, name: 구미시청소년수련관, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf4c, name: 영덕문화체육센터, error: Error downloading image from https://www.kukinews.com/data/kuk/image/2020/07/07/kuk202007070203.680x.9.jpg: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+_id: 643eae5e077163fc3655cf52, name: 장량국민체육센터 수영장, error: Failed to download image from http://www.pohangtong.com/news/photo/201902/795_798_1923.jpg with status code 404
+_id: 643eae5e077163fc3655cf56, name: 포항수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf62, name: 아양아트센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf71, name: 곡성교육문화회관, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf76, name: 담빛수영장, error: Failed to download image from https://www.damyang.go.kr/images/sites/main/main/sub/img_dambit01.jpg with status code 400
+_id: 643eae5e077163fc3655cf81, name: 장성실내수영장, error: Failed to download image from https://www.jangseong.go.kr/images/culture/contents/0501_img00.jpg with status code 400
+_id: 643eae5e077163fc3655cf83, name: 영암국민체육센터, error: Failed to download image from https://www.yeongam.go.kr/images/www/contents/sub03_02_05_img0110.jpg with status code 400
+_id: 643eae5e077163fc3655cf84, name: 완도실내수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce83, name: 유앤아이센터 수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce8b, name: 반월체육센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce90, name: 남동국민체육센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce92, name: 남동수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cea6, name: 종합사회복지관웰빙센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ceab, name: 양양 문화복지회관 수영장, error: Failed to download image from http://www.economicpost.co.kr/imgdata/economicpost_co_kr/202210/2022102840574401.jpg with status code 403
+_id: 643eae5e077163fc3655ceb6, name: 토마토수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cec4, name: 도마실국민체육센터, error: Error downloading image from https://sportsclub.sports.or.kr/upload/popupzone/2019/09/4545645a-c318-49c1-aa79-f77364113277.jpg: HTTPSConnectionPool(host='sportsclub.sports.or.kr', port=443): Max retries exceeded with url: /upload/popupzone/2019/09/4545645a-c318-49c1-aa79-f77364113277.jpg (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)')))
+_id: 643eae5e077163fc3655cecb, name: 대전 중구국민체육센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ced0, name: 코오롱스포렉스 세종한솔점, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ced7, name: 공주학생수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cee2, name: 북부스포츠센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ceec, name: 맹동혁신국민체육센터 수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf01, name: 동래구국민체육센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf07, name: 북구국민체육센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf08, name: 서부산권 장애인 스포츠센터 수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf0e, name: 문수 실내수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf11, name: 울산 근로자종합복지회관, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf42, name: 북경주체육문화센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf4d, name: 안동 청소년수련관, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf64, name: 북구 청소년회관, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf8f, name: 순창실내수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf97, name: 완주군근로자종합복지관, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf9e, name: 외도실내수영장
+(외도 주민만 이용 가능), error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cfa2, name: 진안국민체육센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 645f25de3b0b92b6522cc400, name: 클래스윔 광안점, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 645f25de3b0b92b6522cc401, name: 육우수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 645f25de3b0b92b6522cc405, name: 신성실내수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed60058a, name: 예체능수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed600591, name: 동두천시민회관야외수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005a4, name: 뉴스포츠센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005ba, name: 동남스포피아, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005bf, name: 네스트호텔, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005c2, name: 에프스포렉스 수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005cd, name: 모두의수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005dc, name: 센츄리스포렉스 수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005f7, name: 산청군실내수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005f8, name: 웰리브스포츠플라자, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005fa, name: 케이아쿠아스포츠센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005fb, name: 신세계 실내수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005fd, name: 삼전수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed600613, name: 그린스포츠센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed60061a, name: 월드드림랜드, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf65, name: 남구 청소년수련관, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf7a, name: 팔마 수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf7c, name: 문화건강센터 수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf87, name: 고창청소년수련관, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf8c, name: 군산월명체육관, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf91, name: 이서 문화체육센터수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf94, name: 익산 문화체육센터, error: Error downloading image from https://uyjoqvxyzgvv9714092.cdn.ntruss.com/data2/content/image/2009/12/27/.cache/512/20091227073192.jpg: HTTPSConnectionPool(host='uyjoqvxyzgvv9714092.cdn.ntruss.com', port=443): Max retries exceeded with url: /data2/content/image/2009/12/27/.cache/512/20091227073192.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106d176d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+_id: 643eae5e077163fc3655cf9a, name: 전라북도국민체육센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cfa1, name: 제주국민체육센터, error: Failed to download image from http://jejusisports.or.kr/data/file/0502/983005675_Ak5MIbfK_1.JPG with status code 404
+_id: 645f25de3b0b92b6522cc407, name: 서울스포렉스, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed600583, name: 일산산들수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed600589, name: 광명사회체육센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed60059d, name: 휘트니스센터PG 뉴코아아울렛 동수원점, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed60059f, name: 영통종합사회복지관, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005a8, name: 평택 스포피아 실내수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005ab, name: 에이스스포츠센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005ae, name: 린스트라우스스포츠센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005b3, name: 인천대학교 송도캠퍼스스포츠센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005b6, name: 파라다이스시티 씨메르, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005b8, name: 강릉수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005be, name: 강원대학교 춘천캠퍼스 백령스포츠센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005ca, name: 천마하이파이브수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005cc, name: 충남체육고등학교 수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005ce, name: 현대제철 문화센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005dd, name: 용호레포츠, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005e6, name: 휘폴수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005e8, name: 홍익스포츠수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed600617, name: 덕원수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 63f330e38798073280489418, name: 성동청소년수련관, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 63f330e3879807328048945c, name: 궁동종합사회복지관, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce25, name: 과천시민회관 수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce27, name: 과천시 청소년수련관, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce2b, name: 구리시민스포츠센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce40, name: 탄천종합운동장 수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce41, name: 황새울국민체육센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce4a, name: 수원청소년문화센터 수영장 (새천년수영장)
+(공사중), error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce4d, name: 서수원주민편익시설, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce52, name: 능곡 어울림센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce5b, name: 호계복합청사 수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce61, name: 시흥시국민체육센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce64, name: 여주시노인복지관, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce6c, name: 용인시 평생학습관, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce6d, name: 용인시민체육센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce77, name: 마리나 수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce79, name: 코오롱스포렉스 파주낙하점, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 63f330e387980732804893bd, name: KBS스포츠월드, error: Failed to download image from https://kbsbiz.co.kr/wp-content/uploads/2020/04/2020-04-09-PM-07-05-55.jpg with status code 404
+_id: 63f330e38798073280489405, name: 광진구민체육센터, error: Failed to download image from https://www.gwangjin.or.kr/img/sub01_02_img.gif with status code 404
+_id: 63f330e38798073280489455, name: 시립목동청소년센터, error: Failed to download image from https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/309000234_467844765382399_2004161784780565147_n.jpg?stp=dst-jpg_s960x960&amp;_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=e3f864&amp;_nc_ohc=E95Hqarf838AX_bWTEx&amp;_nc_ht=scontent-ssn1-1.xx&amp;oh=00_AfDWMqVpTvmhWLUZPPWaCRmHog5R5-nedLz_Zd7qPede_w&amp;oe=63BACEF0 with status code 403
+_id: 643eae5e077163fc3655ce32, name: 통진문화회관 수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce3a, name: 에코랜드, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce49, name: 성남종합스포츠센터 수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce50, name: 시흥시청소년수련관 수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce54, name: 안산 올림픽 실내수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cea2, name: 인천도원수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cea5, name: 광산근로자복지센터수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cea7, name: 속초국민체육센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cea9, name: 양구청소년수련관, error: Error downloading image from http://ygsiseol.kr/fnc_images/sub/slide/sis_youth/01.jpg: HTTPConnectionPool(host='ygsiseol.kr', port=80): Max retries exceeded with url: /fnc_images/sub/slide/sis_youth/01.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1055b65e0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+_id: 643eae5e077163fc3655ceb0, name: 정선국민체육센터, error: Failed to download image from https://jsimc.or.kr/web/upload/img/page/page02/img15.jpg with status code 403
+_id: 643eae5e077163fc3655ceb8, name: 대덕국민체육센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cebc, name: 대전 동구국민체육센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cebd, name: 평송 청소년수련원, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cec0, name: 대전 건강체련관, error: Failed to download image from http://www.skwelfare.or.kr/data/images/intro/outlook.jpg with status code 404
+_id: 643eae5e077163fc3655cec5, name: 유성구종합복지센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cece, name: 대전 시립 산성종합복지관, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ced6, name: 계룡스포츠센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cee5, name: 천안종합운동장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cef8, name: 강서체육공원, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cefa, name: 금정구국민체육센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cefe, name: 기장군청소년수련관, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf06, name: 사하구국민체육센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf14, name: 쇠부리체육센터, error: Failed to download image from https://image.newsis.com/2017/09/07/NISI20170907_0000039895_web.jpg?rnd=20170907101452 with status code 403
+_id: 643eae5e077163fc3655cf1d, name: 울산중구수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf22, name: 산청문화예술회관, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf26, name: 의령국민체육센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf49, name: 영천 종합스포츠센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf59, name: 달서아트센터 수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf5c, name: 달서구 청소년수련관, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce86, name: 화성그린환경센터, error: Error downloading image from https://www.hsgreencci.or.kr/images/info/pic00.jpg: ("Connection broken: ConnectionResetError(54, 'Connection reset by peer')", ConnectionResetError(54, 'Connection reset by peer'))
+_id: 643eae5e077163fc3655ce87, name: 동탄복합문화센터수영장, error: Failed to download image from https://ggtour.or.kr/cgi/upload/comm_board/20180801165956.jpg with status code 404
+_id: 643eae5e077163fc3655ce89, name: 동탄어울림체육센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce93, name: 동구문화체육센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce98, name: 인천 여성문화회관 수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce99, name: 검단복지회관, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ce9a, name: 부평국민체육센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ceaa, name: 동해시근로자종합복지회관 수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ceb3, name: 홍천국민체육센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cec2, name: 남선공원, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cee0, name: 부여학생수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655ceee, name: 충북 곰두리체육관, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cef0, name: 충북 체육회관 수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cef7, name: 명지레포츠센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cef9, name: 부산지방공단 스포원, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf09, name: 부산서구스포츠클럽, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf0d, name: 부산국민체육센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf12, name: 울산대공원 아쿠아시스, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf1b, name: 김해 시민스포츠센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf3b, name: 산양수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf3e, name: 구미 근로자종합복지회관, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf53, name: 칠곡 교육문화회관 수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf72, name: 광양수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf6d, name: 강진국민체육센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf6e, name: 광주장애인종합복지관, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf6f, name: 염주실내수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf70, name: 고흥종합문화회관, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf7f, name: 전남교육문화회관 수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf82, name: 장흥국민체육센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf88, name: 우슬국민체육센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf89, name: 남원국민체육센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf92, name: 함열 올림픽스포츠센터 수영장, error: Error downloading image from https://uyjoqvxyzgvv9714092.cdn.ntruss.com/data2/content/image/2021/08/19/.cache/512/20210819317014.jpg: HTTPSConnectionPool(host='uyjoqvxyzgvv9714092.cdn.ntruss.com', port=443): Max retries exceeded with url: /data2/content/image/2021/08/19/.cache/512/20210819317014.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1055cf820>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+_id: 643eae5e077163fc3655cf98, name: 장수 한누리 수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cf99, name: 임실국민체육센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 645f25de3b0b92b6522cc409, name: 에덴스포츠타운, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed60058c, name: 서브마린수영장 경기광주점, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed600593, name: 성남YMCA LH스포츠센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed60059a, name: 라이프스포츠수원, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005a0, name: 한샘레포츠타운 산업단지, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005a5, name: 트윈스포츠센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005a6, name: 아쿠아온 시흥플랑드르, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005b1, name: 송도아쿠아틱센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005c8, name: 유성구장애인종합복지관, error: Failed to download image from https://withway.or.kr/xe/page/images/m1_img_1.gif with status code 403
+_id: 64ae4f7a4d530437ed6005cb, name: 삼부스포렉스수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005d5, name: 아쿠아레나, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005df, name: G Sports Complex, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005ef, name: 거제도해수보양온천, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed600602, name: 푸르뫼스포츠센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed60060b, name: 안동대학교 종합스포츠센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed60061f, name: 광주학생교육문화회관 수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed600621, name: 만성시티 피트니스센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 643eae5e077163fc3655cfa6, name: 서귀포홍리실내수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 645f25de3b0b92b6522cc3ff, name: 클래스윔 서면초량점, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 645f25de3b0b92b6522cc402, name: 경성대학교 스포츠센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed60058d, name: 광주 SRC 스포츠센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed600590, name: 신안웰리스 스포츠센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed600592, name: 부천 W휘트니스, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed600594, name: 패밀리스포츠센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed600598, name: 서호노인복지관, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005a3, name: 석천스포츠, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005a7, name: 포천 강남스포렉스, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005a9, name: 진명스포아트, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005b0, name: 송도 박태환수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005c3, name: 추목수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005c5, name: J스위밍센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005d3, name: 천안 음파음파 수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005d7, name: 충청북도 학생수영장, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005e0, name: 신나는사상스포츠클럽, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005e7, name: 유니스트 스포츠센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005eb, name: KBS목포88체육관, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed6005f2, name: 더포라스위츠 스포츠센터, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed600615, name: 송림스포츠프라자, error: Error downloading image from : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+_id: 64ae4f7a4d530437ed600624, name: 광주북구반다비체육센터, error: Failed to download image from https://edu.gbfmc.or.kr/resources/upload/20230614/1686717137962 with status code 404
+
+Total documents failed to download: 228

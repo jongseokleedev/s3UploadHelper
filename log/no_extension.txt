@@ -1,0 +1,323 @@
+_id: 63f330e387980732804893c3, name: 스포타임
+_id: 63f330e387980732804893f2, name: 태화기독교사회복지관
+_id: 63f330e387980732804893f4, name: 동대문종합사회복지관
+_id: 63f330e3879807328048940a, name: 중곡문화체육센터
+_id: 63f330e3879807328048940f, name: 목동문화체육센터
+_id: 63f330e38798073280489411, name: 이태원초등학교
+_id: 63f330e38798073280489437, name: 시립문래청소년센터
+_id: 63f330e387980732804893c6, name: 북성스포츠센터
+_id: 63f330e38798073280489447, name: 신정스포츠센터
+_id: 63f330e3879807328048946f, name: 양천구민체육센터
+_id: 63f330e38798073280489408, name: 관악구민종합체육센터
+_id: 643eae5e077163fc3655ce2d, name: 구리시청소년수련관
+_id: 643eae5e077163fc3655ce35, name: 진접체육문화센터
+_id: 63f330e3879807328048941d, name: 종로문화체육센터
+_id: 643eae5e077163fc3655ce36, name: 남양주체육문화센터
+_id: 643eae5e077163fc3655ce44, name: 중원청소년수련관 수영장
+_id: 643eae5e077163fc3655ce4b, name: 장안구민회관
+_id: 643eae5e077163fc3655ce51, name: 정왕평생학습관 수영장
+_id: 63f330e38798073280489439, name: 동작삼일수영장
+_id: 63f330e38798073280489459, name: 사당문화회관
+_id: 63f330e38798073280489465, name: 노원청소년센터
+_id: 643eae5e077163fc3655ce34, name: 와부체육문화센터
+_id: 643eae5e077163fc3655ce39, name: 오남체육문화센터
+_id: 643eae5e077163fc3655ce4c, name: 광교체육센터
+_id: 643eae5e077163fc3655ce4e, name: 광교웰빙국민체육센터
+_id: 643eae5e077163fc3655ce69, name: 오산스포츠센터
+_id: 643eae5e077163fc3655ce6e, name: 발렌스 스포츠센터
+_id: 643eae5e077163fc3655ce75, name: 이천스포츠센터
+_id: 643eae5e077163fc3655ce78, name: 의정부시청소년수련관
+_id: 643eae5e077163fc3655ce7b, name: 코오롱스포렉스 교하점
+_id: 643eae5e077163fc3655ce81, name: 하남국민체육센터 수영장
+_id: 643eae5e077163fc3655ce84, name: 화성국민체육센터
+_id: 643eae5e077163fc3655ce91, name: 인천시청소년수련관
+_id: 643eae5e077163fc3655ce95, name: 미추홀구 국민체육센터
+_id: 643eae5e077163fc3655ceba, name: 대전 체육재활원
+_id: 643eae5e077163fc3655cebb, name: 화천국민문화체육센터
+_id: 643eae5e077163fc3655cec3, name: 대전월드컵스포츠센터
+_id: 643eae5e077163fc3655cecd, name: 한솔중학교 수영장
+_id: 643eae5e077163fc3655ced1, name: 세종 장애인형 국민체육센터
+_id: 643eae5e077163fc3655cedc, name: 서산국민체육센터
+_id: 643eae5e077163fc3655cee3, name: 한들문화센터
+_id: 643eae5e077163fc3655cee4, name: 천안SMC수영장
+_id: 643eae5e077163fc3655ceed, name: 제천올림픽스포츠센터
+_id: 643eae5e077163fc3655cf04, name: 사상국민체육센터
+_id: 643eae5e077163fc3655cf21, name: 사천 실내수영장
+_id: 643eae5e077163fc3655cf2d, name: 창원 올림픽기념국민생활관
+_id: 643eae5e077163fc3655cf3f, name: 구미시청소년수련관
+_id: 643eae5e077163fc3655cf56, name: 포항수영장
+_id: 643eae5e077163fc3655cf62, name: 아양아트센터
+_id: 643eae5e077163fc3655cf71, name: 곡성교육문화회관
+_id: 643eae5e077163fc3655cf84, name: 완도실내수영장
+_id: 643eae5e077163fc3655ce63, name: 양서에코힐링센터
+_id: 643eae5e077163fc3655ce6b, name: 용인시청소년수련관
+_id: 643eae5e077163fc3655ce6f, name: 아르피아스포츠센터
+_id: 643eae5e077163fc3655ce83, name: 유앤아이센터 수영장
+_id: 643eae5e077163fc3655ce8b, name: 반월체육센터
+_id: 643eae5e077163fc3655ce90, name: 남동국민체육센터
+_id: 643eae5e077163fc3655ce92, name: 남동수영장
+_id: 643eae5e077163fc3655ce96, name: 문학 박태환 수영장
+_id: 643eae5e077163fc3655ce9d, name: 청라복합문화센터
+_id: 643eae5e077163fc3655cea6, name: 종합사회복지관웰빙센터
+_id: 643eae5e077163fc3655ceb6, name: 토마토수영장
+_id: 643eae5e077163fc3655cec9, name: 한밭 수영장
+_id: 643eae5e077163fc3655cecb, name: 대전 중구국민체육센터
+_id: 643eae5e077163fc3655ced0, name: 코오롱스포렉스 세종한솔점
+_id: 643eae5e077163fc3655ced7, name: 공주학생수영장
+_id: 643eae5e077163fc3655cedb, name: 보령 국민체육센터
+_id: 643eae5e077163fc3655cee2, name: 북부스포츠센터
+_id: 643eae5e077163fc3655ceec, name: 맹동혁신국민체육센터 수영장
+_id: 643eae5e077163fc3655cf01, name: 동래구국민체육센터
+_id: 643eae5e077163fc3655cf07, name: 북구국민체육센터
+_id: 643eae5e077163fc3655cf08, name: 서부산권 장애인 스포츠센터 수영장
+_id: 643eae5e077163fc3655cf0e, name: 문수 실내수영장
+_id: 643eae5e077163fc3655cf11, name: 울산 근로자종합복지회관
+_id: 643eae5e077163fc3655cf42, name: 북경주체육문화센터
+_id: 643eae5e077163fc3655cf4a, name: 울진국민체육센터
+_id: 643eae5e077163fc3655cf4d, name: 안동 청소년수련관
+_id: 643eae5e077163fc3655cf64, name: 북구 청소년회관
+_id: 643eae5e077163fc3655cf8f, name: 순창실내수영장
+_id: 643eae5e077163fc3655cf97, name: 완주군근로자종합복지관
+_id: 643eae5e077163fc3655cf9e, name: 외도실내수영장
+(외도 주민만 이용 가능)
+_id: 643eae5e077163fc3655cfa2, name: 진안국민체육센터
+_id: 645f25de3b0b92b6522cc400, name: 클래스윔 광안점
+_id: 645f25de3b0b92b6522cc401, name: 육우수영장
+_id: 645f25de3b0b92b6522cc405, name: 신성실내수영장
+_id: 64ae4f7a4d530437ed60058a, name: 예체능수영장
+_id: 64ae4f7a4d530437ed600591, name: 동두천시민회관야외수영장
+_id: 64ae4f7a4d530437ed600597, name: 수정스포츠센터
+_id: 64ae4f7a4d530437ed6005a4, name: 뉴스포츠센터
+_id: 64ae4f7a4d530437ed6005ba, name: 동남스포피아
+_id: 64ae4f7a4d530437ed6005bf, name: 네스트호텔
+_id: 64ae4f7a4d530437ed6005c2, name: 에프스포렉스 수영장
+_id: 64ae4f7a4d530437ed6005cd, name: 모두의수영장
+_id: 64ae4f7a4d530437ed6005d4, name: 천안 조이풀수영장
+_id: 64ae4f7a4d530437ed6005d8, name: 용곡C&C수영장
+_id: 64ae4f7a4d530437ed6005dc, name: 센츄리스포렉스 수영장
+_id: 64ae4f7a4d530437ed6005e1, name: 부산시민스포츠센터
+_id: 64ae4f7a4d530437ed6005ec, name: 유심천건강랜드
+_id: 64ae4f7a4d530437ed6005ee, name: 한빛스포츠센터
+_id: 64ae4f7a4d530437ed6005f7, name: 산청군실내수영장
+_id: 64ae4f7a4d530437ed6005f8, name: 웰리브스포츠플라자
+_id: 64ae4f7a4d530437ed6005fa, name: 케이아쿠아스포츠센터
+_id: 64ae4f7a4d530437ed6005fb, name: 신세계 실내수영장
+_id: 64ae4f7a4d530437ed6005fd, name: 삼전수영장
+_id: 64ae4f7a4d530437ed600607, name: 제이원 스파랜드 구미점
+_id: 64ae4f7a4d530437ed60060a, name: 포항공과대학교 POSPLEX
+_id: 64ae4f7a4d530437ed60060d, name: 홈스파월드
+_id: 64ae4f7a4d530437ed600613, name: 그린스포츠센터
+_id: 64ae4f7a4d530437ed60061a, name: 월드드림랜드
+_id: 64ae4f7a4d530437ed60061e, name: 기아수영장
+_id: 643eae5e077163fc3655cf65, name: 남구 청소년수련관
+_id: 643eae5e077163fc3655cf67, name: 서구청소년수련관
+_id: 643eae5e077163fc3655cf68, name: 광주 동구문화센터
+_id: 643eae5e077163fc3655cf7a, name: 팔마 수영장
+_id: 643eae5e077163fc3655cf7c, name: 문화건강센터 수영장
+_id: 643eae5e077163fc3655cf87, name: 고창청소년수련관
+_id: 643eae5e077163fc3655cf8c, name: 군산월명체육관
+_id: 643eae5e077163fc3655cf91, name: 이서 문화체육센터수영장
+_id: 643eae5e077163fc3655cf9a, name: 전라북도국민체육센터
+_id: 643eae5e077163fc3655cfa1, name: 제주국민체육센터
+_id: 645f25de3b0b92b6522cc3fe, name: 아르피나
+_id: 645f25de3b0b92b6522cc407, name: 서울스포렉스
+_id: 64ae4f7a4d530437ed600583, name: 일산산들수영장
+_id: 64ae4f7a4d530437ed600589, name: 광명사회체육센터
+_id: 64ae4f7a4d530437ed60059d, name: 휘트니스센터PG 뉴코아아울렛 동수원점
+_id: 64ae4f7a4d530437ed60059f, name: 영통종합사회복지관
+_id: 64ae4f7a4d530437ed6005a8, name: 평택 스포피아 실내수영장
+_id: 64ae4f7a4d530437ed6005aa, name: 하나로휘트니스힐링교육센터 (경인교대 수영장)
+_id: 64ae4f7a4d530437ed6005ab, name: 에이스스포츠센터
+_id: 64ae4f7a4d530437ed6005ae, name: 린스트라우스스포츠센터
+_id: 64ae4f7a4d530437ed6005b3, name: 인천대학교 송도캠퍼스스포츠센터
+_id: 64ae4f7a4d530437ed6005b6, name: 파라다이스시티 씨메르
+_id: 64ae4f7a4d530437ed6005b8, name: 강릉수영장
+_id: 64ae4f7a4d530437ed6005be, name: 강원대학교 춘천캠퍼스 백령스포츠센터
+_id: 64ae4f7a4d530437ed6005c9, name: 사이언스전민스포츠센터
+_id: 64ae4f7a4d530437ed6005ca, name: 천마하이파이브수영장
+_id: 64ae4f7a4d530437ed6005cc, name: 충남체육고등학교 수영장
+_id: 64ae4f7a4d530437ed6005ce, name: 현대제철 문화센터
+_id: 64ae4f7a4d530437ed6005da, name: 정관아쿠아드림파크
+_id: 64ae4f7a4d530437ed6005db, name: 성성파인트리수영장
+_id: 64ae4f7a4d530437ed6005dd, name: 용호레포츠
+_id: 64ae4f7a4d530437ed6005e6, name: 휘폴수영장
+_id: 64ae4f7a4d530437ed6005e8, name: 홍익스포츠수영장
+_id: 64ae4f7a4d530437ed6005f9, name: 종합스포츠센터 수영장
+_id: 64ae4f7a4d530437ed600617, name: 덕원수영장
+_id: 64ae4f7a4d530437ed60061b, name: 세븐스포츠센터
+_id: 64ae4f7a4d530437ed600620, name: 익산교육문화회관 수영장
+_id: 63f330e387980732804893ea, name: 강북문화예술회관
+_id: 63f330e38798073280489404, name: 언북스포츠센터
+_id: 63f330e38798073280489418, name: 성동청소년수련관
+_id: 63f330e3879807328048943b, name: 수서청소년센터
+_id: 63f330e38798073280489457, name: 신월문화체육센터
+_id: 63f330e3879807328048945c, name: 궁동종합사회복지관
+_id: 643eae5e077163fc3655ce25, name: 과천시민회관 수영장
+_id: 643eae5e077163fc3655ce27, name: 과천시 청소년수련관
+_id: 643eae5e077163fc3655ce2b, name: 구리시민스포츠센터
+_id: 643eae5e077163fc3655ce3b, name: 별내커뮤니티센터
+_id: 643eae5e077163fc3655ce40, name: 탄천종합운동장 수영장
+_id: 643eae5e077163fc3655ce41, name: 황새울국민체육센터
+_id: 643eae5e077163fc3655ce4a, name: 수원청소년문화센터 수영장 (새천년수영장)
+(공사중)
+_id: 643eae5e077163fc3655ce4d, name: 서수원주민편익시설
+_id: 643eae5e077163fc3655ce52, name: 능곡 어울림센터
+_id: 643eae5e077163fc3655ce5b, name: 호계복합청사 수영장
+_id: 643eae5e077163fc3655ce61, name: 시흥시국민체육센터
+_id: 643eae5e077163fc3655ce64, name: 여주시노인복지관
+_id: 643eae5e077163fc3655ce6c, name: 용인시 평생학습관
+_id: 643eae5e077163fc3655ce6d, name: 용인시민체육센터
+_id: 643eae5e077163fc3655ce72, name: 남사스포츠센터
+_id: 643eae5e077163fc3655ce73, name: 원동초스포츠센터
+_id: 643eae5e077163fc3655ce77, name: 마리나 수영장
+_id: 643eae5e077163fc3655ce79, name: 코오롱스포렉스 파주낙하점
+_id: 63f330e387980732804893be, name: 마곡레포츠센터
+_id: 63f330e387980732804893f0, name: 마장국민체육센터
+_id: 63f330e387980732804893f1, name: 동작구민체육센터
+_id: 63f330e387980732804893f3, name: 신길종합사회복지관
+_id: 63f330e38798073280489405, name: 광진구민체육센터
+_id: 63f330e38798073280489406, name: 광진문화예술회관
+_id: 63f330e38798073280489432, name: 서울숲복합문화체육센터
+_id: 63f330e38798073280489435, name: 흑석체육센터
+_id: 63f330e38798073280489436, name: 역삼청소년수련관
+_id: 63f330e38798073280489448, name: 신림체육센터
+_id: 643eae5e077163fc3655ce30, name: 군포국민체육센터
+_id: 643eae5e077163fc3655ce32, name: 통진문화회관 수영장
+_id: 643eae5e077163fc3655ce37, name: 호평체육문화센터
+_id: 643eae5e077163fc3655ce3a, name: 에코랜드
+_id: 643eae5e077163fc3655ce3c, name: 화도체육문화센터
+_id: 643eae5e077163fc3655ce49, name: 성남종합스포츠센터 수영장
+_id: 643eae5e077163fc3655ce50, name: 시흥시청소년수련관 수영장
+_id: 643eae5e077163fc3655ce54, name: 안산 올림픽 실내수영장
+_id: 643eae5e077163fc3655ce60, name: 서부권스포츠센터
+_id: 643eae5e077163fc3655ce6a, name: 세교복지타운 수영장
+_id: 643eae5e077163fc3655cea2, name: 인천도원수영장
+_id: 643eae5e077163fc3655cea5, name: 광산근로자복지센터수영장
+_id: 643eae5e077163fc3655cea7, name: 속초국민체육센터
+_id: 643eae5e077163fc3655ceb8, name: 대덕국민체육센터
+_id: 643eae5e077163fc3655ceb9, name: 용운 국제수영장
+_id: 643eae5e077163fc3655cebc, name: 대전 동구국민체육센터
+_id: 643eae5e077163fc3655cebd, name: 평송 청소년수련원
+_id: 643eae5e077163fc3655cec5, name: 유성구종합복지센터
+_id: 643eae5e077163fc3655cece, name: 대전 시립 산성종합복지관
+_id: 643eae5e077163fc3655cecf, name: 아름스포츠센터
+_id: 643eae5e077163fc3655ced6, name: 계룡스포츠센터
+_id: 643eae5e077163fc3655ceda, name: 당진교육문화스포츠센터
+_id: 643eae5e077163fc3655cee5, name: 천안종합운동장
+_id: 643eae5e077163fc3655cef8, name: 강서체육공원
+_id: 643eae5e077163fc3655cefa, name: 금정구국민체육센터
+_id: 643eae5e077163fc3655cefe, name: 기장군청소년수련관
+_id: 643eae5e077163fc3655cf06, name: 사하구국민체육센터
+_id: 643eae5e077163fc3655cf19, name: 거제시문화예술회관
+_id: 643eae5e077163fc3655cf1d, name: 울산중구수영장
+_id: 643eae5e077163fc3655cf22, name: 산청문화예술회관
+_id: 643eae5e077163fc3655cf26, name: 의령국민체육센터
+_id: 643eae5e077163fc3655cf35, name: 하동국민체육센터
+_id: 643eae5e077163fc3655cf49, name: 영천 종합스포츠센터
+_id: 643eae5e077163fc3655cf59, name: 달서아트센터 수영장
+_id: 643eae5e077163fc3655cf5c, name: 달서구 청소년수련관
+_id: 643eae5e077163fc3655cf63, name: 성서국민체육센터
+_id: 643eae5e077163fc3655ce89, name: 동탄어울림체육센터
+_id: 643eae5e077163fc3655ce93, name: 동구문화체육센터
+_id: 643eae5e077163fc3655ce98, name: 인천 여성문화회관 수영장
+_id: 643eae5e077163fc3655ce99, name: 검단복지회관
+_id: 643eae5e077163fc3655ce9a, name: 부평국민체육센터
+_id: 643eae5e077163fc3655cea3, name: 중구국민체육센터
+_id: 643eae5e077163fc3655ceaa, name: 동해시근로자종합복지회관 수영장
+_id: 643eae5e077163fc3655ceb2, name: 인제 하늘내린센터
+_id: 643eae5e077163fc3655ceb3, name: 홍천국민체육센터
+_id: 643eae5e077163fc3655cec2, name: 남선공원
+_id: 643eae5e077163fc3655ced9, name: 송악문화스포츠센터
+_id: 643eae5e077163fc3655cee0, name: 부여학생수영장
+_id: 643eae5e077163fc3655cee7, name: 단양 청소년수련관 수영장
+_id: 643eae5e077163fc3655ceee, name: 충북 곰두리체육관
+_id: 643eae5e077163fc3655cef0, name: 충북 체육회관 수영장
+_id: 643eae5e077163fc3655cef7, name: 명지레포츠센터
+_id: 643eae5e077163fc3655cef9, name: 부산지방공단 스포원
+_id: 643eae5e077163fc3655cf05, name: 부산 사직종합운동장 실내수영장
+_id: 643eae5e077163fc3655cf09, name: 부산서구스포츠클럽
+_id: 643eae5e077163fc3655cf0d, name: 부산국민체육센터
+_id: 643eae5e077163fc3655cf12, name: 울산대공원 아쿠아시스
+_id: 643eae5e077163fc3655cf1b, name: 김해 시민스포츠센터
+_id: 643eae5e077163fc3655cf3b, name: 산양수영장
+_id: 643eae5e077163fc3655cf3e, name: 구미 근로자종합복지회관
+_id: 643eae5e077163fc3655cf4e, name: 의성청소년센터
+_id: 643eae5e077163fc3655cf4f, name: 의성국민체육센터
+_id: 643eae5e077163fc3655cf53, name: 칠곡 교육문화회관 수영장
+_id: 643eae5e077163fc3655cf6c, name: 북구 건강복지타운 (우산수영장)
+_id: 643eae5e077163fc3655cf72, name: 광양수영장
+_id: 643eae5e077163fc3655cf6d, name: 강진국민체육센터
+_id: 643eae5e077163fc3655cf6e, name: 광주장애인종합복지관
+_id: 643eae5e077163fc3655cf6f, name: 염주실내수영장
+_id: 643eae5e077163fc3655cf70, name: 고흥종합문화회관
+_id: 643eae5e077163fc3655cf7b, name: 망마국민체육센터
+_id: 643eae5e077163fc3655cf7f, name: 전남교육문화회관 수영장
+_id: 643eae5e077163fc3655cf82, name: 장흥국민체육센터
+_id: 643eae5e077163fc3655cf88, name: 우슬국민체육센터
+_id: 643eae5e077163fc3655cf89, name: 남원국민체육센터
+_id: 643eae5e077163fc3655cf98, name: 장수 한누리 수영장
+_id: 643eae5e077163fc3655cf99, name: 임실국민체육센터
+_id: 645f25de3b0b92b6522cc409, name: 에덴스포츠타운
+_id: 64ae4f7a4d530437ed60058c, name: 서브마린수영장 경기광주점
+_id: 64ae4f7a4d530437ed600593, name: 성남YMCA LH스포츠센터
+_id: 64ae4f7a4d530437ed600595, name: 코오롱스포렉스 분당점
+_id: 64ae4f7a4d530437ed60059a, name: 라이프스포츠수원
+_id: 64ae4f7a4d530437ed60059b, name: 버드내노인복지관
+_id: 64ae4f7a4d530437ed6005a0, name: 한샘레포츠타운 산업단지
+_id: 64ae4f7a4d530437ed6005a5, name: 트윈스포츠센터
+_id: 64ae4f7a4d530437ed6005a6, name: 아쿠아온 시흥플랑드르
+_id: 64ae4f7a4d530437ed6005b1, name: 송도아쿠아틱센터
+_id: 64ae4f7a4d530437ed6005c8, name: 유성구장애인종합복지관
+_id: 64ae4f7a4d530437ed6005cb, name: 삼부스포렉스수영장
+_id: 64ae4f7a4d530437ed6005cf, name: 정부세종청사체육관
+_id: 64ae4f7a4d530437ed6005d0, name: 서산학생수영장
+_id: 64ae4f7a4d530437ed6005d1, name: 경희한얼수영장
+_id: 64ae4f7a4d530437ed6005d5, name: 아쿠아레나
+_id: 64ae4f7a4d530437ed6005df, name: G Sports Complex
+_id: 64ae4f7a4d530437ed6005e9, name: 성황스포츠센터 수영장
+_id: 64ae4f7a4d530437ed6005ef, name: 거제도해수보양온천
+_id: 64ae4f7a4d530437ed6005f3, name: 장유스포츠센터
+_id: 64ae4f7a4d530437ed600602, name: 푸르뫼스포츠센터
+_id: 64ae4f7a4d530437ed600603, name: 더퍼스트 수영장
+_id: 64ae4f7a4d530437ed60060b, name: 안동대학교 종합스포츠센터
+_id: 64ae4f7a4d530437ed600614, name: 선스포츠프라자
+_id: 64ae4f7a4d530437ed600616, name: 라온휘트니스
+_id: 64ae4f7a4d530437ed60061d, name: 광주체육고등학교 수영장
+_id: 64ae4f7a4d530437ed60061f, name: 광주학생교육문화회관 수영장
+_id: 64ae4f7a4d530437ed600621, name: 만성시티 피트니스센터
+_id: 643eae5e077163fc3655cf95, name: 완주청소년수련관
+_id: 643eae5e077163fc3655cfa6, name: 서귀포홍리실내수영장
+_id: 645f25de3b0b92b6522cc3ff, name: 클래스윔 서면초량점
+_id: 645f25de3b0b92b6522cc402, name: 경성대학교 스포츠센터
+_id: 64ae4f7a4d530437ed60058d, name: 광주 SRC 스포츠센터
+_id: 64ae4f7a4d530437ed600590, name: 신안웰리스 스포츠센터
+_id: 64ae4f7a4d530437ed600592, name: 부천 W휘트니스
+_id: 64ae4f7a4d530437ed600594, name: 패밀리스포츠센터
+_id: 64ae4f7a4d530437ed600598, name: 서호노인복지관
+_id: 64ae4f7a4d530437ed60059e, name: 하이츠스포츠센터
+_id: 64ae4f7a4d530437ed6005a2, name: 메인스포츠클럽
+_id: 64ae4f7a4d530437ed6005a3, name: 석천스포츠
+_id: 64ae4f7a4d530437ed6005a7, name: 포천 강남스포렉스
+_id: 64ae4f7a4d530437ed6005a9, name: 진명스포아트
+_id: 64ae4f7a4d530437ed6005ac, name: 인천북부문화체육센터
+_id: 64ae4f7a4d530437ed6005b0, name: 송도 박태환수영장
+_id: 64ae4f7a4d530437ed6005c0, name: 한림대학교 한림레크레이션센터
+_id: 64ae4f7a4d530437ed6005c3, name: 추목수영장
+_id: 64ae4f7a4d530437ed6005c5, name: J스위밍센터
+_id: 64ae4f7a4d530437ed6005c6, name: 사이언스도룡스포츠센터
+_id: 64ae4f7a4d530437ed6005c7, name: 연세대학교 미래캠퍼스연세스포츠센터
+_id: 64ae4f7a4d530437ed6005d2, name: 오션수영장
+_id: 64ae4f7a4d530437ed6005d3, name: 천안 음파음파 수영장
+_id: 64ae4f7a4d530437ed6005d7, name: 충청북도 학생수영장
+_id: 64ae4f7a4d530437ed6005e0, name: 신나는사상스포츠클럽
+_id: 64ae4f7a4d530437ed6005e7, name: 유니스트 스포츠센터
+_id: 64ae4f7a4d530437ed6005ea, name: 울주군 국민체육센터
+_id: 64ae4f7a4d530437ed6005eb, name: KBS목포88체육관
+_id: 64ae4f7a4d530437ed6005f2, name: 더포라스위츠 스포츠센터
+_id: 64ae4f7a4d530437ed60060c, name: 대봉수영장
+_id: 64ae4f7a4d530437ed600615, name: 송림스포츠프라자
+_id: 64ae4f7a4d530437ed600619, name: 트럼프스포츠
+_id: 64ae4f7a4d530437ed600624, name: 광주북구반다비체육센터
+_id: 666bda24f7000e167fabcbc0, name: 비타스위밍
+
+Total documents with no file extension: 319

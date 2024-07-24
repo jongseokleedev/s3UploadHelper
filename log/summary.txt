@@ -1,0 +1,4 @@
+Total documents missing 'outsideimgurl' field: 276
+Total documents failed to download: 228
+Total documents with no file extension: 319
+Total documents successfully uploaded to S3: 397

@@ -1,3 +1,6 @@
 .env
 .venv/
 .idea
+.downloads/
+.log/
+.log_mg_url_bu/

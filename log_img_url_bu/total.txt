@@ -1,0 +1,4 @@
+Total documents missing 'imgurl' field: 31
+Total documents failed to download: 113
+Total documents with no file extension: 392
+Total documents successfully uploaded to S3: 757
